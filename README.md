@@ -5,7 +5,13 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/kannanunni/)  
 📧 jkannanunni@gmail.com  
 ---
-<img align="right" alt="GIF" src="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true" height="200" />
+<picture>
+  <source media="(max-width: 600px)" srcset="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true">
+  <img src="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true" 
+       alt="GIF" 
+       align="right" 
+       style="height: 200px; max-width: 100%; margin-left: 20px;" />
+</picture>
 
 
 - 🔬 Specialize in **GenAI, ML|DL**
