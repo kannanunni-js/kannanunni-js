@@ -5,7 +5,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/kannanunni/)  
 📧 jkannanunni@gmail.com  
 ---
-<img align="right" alt="GIF" src="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true" style="max-width: 300px; width: 100%; height: auto;" />
+<img align="right" alt="GIF" src="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true" height="200" />
 
 
 - 🔬 Specialize in **GenAI, ML|DL**
@@ -59,6 +59,7 @@ If you're into GenAI, healthcare AI, or building intelligent systems — let's c
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ### 📫 Let's Connect
