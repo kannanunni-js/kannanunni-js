@@ -5,10 +5,10 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/kannanunni/)  
 📧 jkannanunni@gmail.com  
 ---
-<img align="right" alt="GIF" src="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true" height="200" />
+<img align="right" alt="GIF" src="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true" style="max-width: 300px; width: 100%; height: auto;" />
 
 
-- 🔬 I specialize in **GenAI, ML|DL**
+- 🔬 Specialize in **GenAI, ML|DL**
 - 🏥 Built systems for **medical code retrieval**, **fracture detection**, **real-time streaming platforms** and **NLP**
 - 🧠 Developed an **LLM agent** with a custom **Model Context Protocol (MCP)** for an AI competition
 - 🗂 Created **multitenant chatbot systems** with **RAG** and document parsing
