@@ -2,8 +2,8 @@
 
 # Kannanunni J S  
 **AI/ML Engineer | Data Scientist | Specializing in Generative AI & Multi-Agent Systems**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kannanunni/)  
-📧 jkannanunni@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kannanunni/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jkannanunni@gmail.com)
 ---
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/kannanunni-js/kannanunni-js/blob/main/greeno.gif?raw=true">
