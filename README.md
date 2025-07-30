@@ -14,7 +14,7 @@
 </picture>
 
 
-- 🔬 Specialize in **GenAI, ML|DL**
+- 🔬 Specialize in **GenAI, ML/DL**
 - 🏥 Built systems for **medical code retrieval**, **fracture detection**, **real-time streaming platforms** and **NLP**
 - 🧠 Developed an **LLM agent** with a custom **Model Context Protocol (MCP)** for an AI competition
 - 🗂 Created **multitenant chatbot systems** with **RAG** and document parsing
